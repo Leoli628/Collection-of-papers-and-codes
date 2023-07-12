@@ -1,4 +1,4 @@
 # Collection-of-papers-and-codes
-|                 Paper                 |       Code       |
-| --------------------------------- | --------------------------------- |
+|   Paper   |   Code   |
+#| --- | --- |
 |sdsdfsdfsdfds|sad|
