@@ -1,7 +1,7 @@
 # Collection-of-papers-and-codes
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
-| [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [code](https://github.com/NVIDIA/vid2vid) | 5578 | 
+| [RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction](https://arxiv.org/pdf/2212.10066.pdf) | NIPS | [code](https://github.com/Correr-Zhou/RepMode) | 1 | 
 
 |    Title    |   Paper   |   Code   |
 |    ---      |    ---    |   ---    |
