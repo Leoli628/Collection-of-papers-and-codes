@@ -9,6 +9,9 @@ table th:nth-of-type(2) {
 table th:nth-of-type(3) {
     width: 10%;
 }
+| Title | Conf | Code | Stars |
+|:--------|:--------:|:--------:|:--------:|
+| [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [code](https://github.com/NVIDIA/vid2vid) | 5578 | 
 </style>
 |    Title    |   Paper   |   Code   |
 |    ---      |    ---    |   ---    |
