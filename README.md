@@ -1,9 +1,9 @@
 # Collection-of-papers-and-codes
 <div align="left">
-[conference in time sequence](#conference in time sequence)
-[conference in task classification](#conference in task classification)
+[conference-in-time-sequence](#conference-in-time-sequence)
+[conference-in-task-classification](#conference-in-task-classification)
   
-# conference in time sequence
+# conference-in-time-sequence
 | [2023](#2023conf) | [2022](#2022c) | [2021](#2021c) | [2020](#2020c) | [2019](#2019c) | [2018](#2018c) | [2017](#2017c) | 
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 ## 2023conf
