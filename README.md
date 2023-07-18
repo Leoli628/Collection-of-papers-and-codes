@@ -33,5 +33,5 @@
 |:--------|:--------:|:--------:|
 | [FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis](https://arxiv.org/pdf/2112.01148.pdf) | CVPR | [code](https://github.com/HazardFY/FIBA) |
 | [Semantically-Consistent Dynamic Blurry Image Generation for Image Deblurring](https://dl.acm.org/doi/pdf/10.1145/3503161.3548106) | ACMMM | [code]() |
-
+| [UniMiSS: Universal Medical Self-Supervised Learning via Breaking Dimensionality Barrier](https://arxiv.org/pdf/2112.09356v2.pdf) | ECCV | [code](https://github.com/YtongXie/UniMiSS-code) |
 # conference in task classification
